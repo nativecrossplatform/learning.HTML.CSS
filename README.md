@@ -1,2 +1,2 @@
-# HTML & CSS
+# HTML 
 Repository For Learning HTML In-Practice.
