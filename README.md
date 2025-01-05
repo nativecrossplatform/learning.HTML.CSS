@@ -1,2 +1,2 @@
-# learning.HTML.CSS
+# HTML & CSS
 Repository For Learning HTML &amp; CSS In-Practice.
